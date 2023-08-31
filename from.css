@@ -1,0 +1,51 @@
+@charset "UTF-8";
+div#interface {
+    color: rgb(0, 0, 0);
+    margin: 100px 100px auto 100px;
+}
+
+/*Editing os fieldset do meu formulario*/
+
+fieldset#corpo-form{
+    border-radius: 10px;
+    width: 430px; 
+    height: 450px;
+    
+}
+fieldset#camp-name {
+    border-radius: 10px;
+    padding: 15px;
+    margin:10px;
+
+}
+fieldset#camp-email {
+    border-radius: 10px;
+    padding: 15px;
+    margin:10px;
+
+}
+fieldset#camp-senha {
+    border-radius: 10px;
+    padding: 15px;
+    margin:10px;
+
+}
+
+
+h1 {
+    padding: 5px 0px 30px 5px;
+
+ }
+
+ button#button-form {
+    border-radius: 10px;
+    background-color:rgb(44, 44, 180);
+    color: white ;
+    position: relative;
+    margin:10px 170px 5px 170px ; 
+    padding: 5px 20px 5px 20px ;
+ }
+ /* editing os inputs*/
+button:hover {
+    color:black;
+}
